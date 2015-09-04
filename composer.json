@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "maybeworks\\libs\\": ""
+            "maybeworks\\fontawesome\\": ""
         }
     }
 }
