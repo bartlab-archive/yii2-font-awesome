@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require "maybeworks/yii2-tinymce" "*"
+php composer.phar require "maybeworks/yii2-font-awesome" "*"
 ```
 
 or add
 
 ```json
-"maybeworks/yii2-tinymce" : "*"
+"maybeworks/yii2-font-awesome" : "*"
 ```
 
 to the require section of your application's `composer.json` file.
